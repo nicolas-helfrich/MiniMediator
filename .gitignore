@@ -1,0 +1,76 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio folders
+.vs/
+.vscode/
+
+# ReSharper
+*.DotSettings.user
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Rider
+.idea/
+*.sln.iml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# OS generated files
+.DS_Store
+*.swp
+*.bak
+*.tmp
+*.~*
+
+# Visual Studio Code
+.history/
+.vscode/
+
+# Local history for some extensions
+.localhistory/
+
+# JetBrains Rider
+.idea/
+
+# VS Code Workspace Storage
+.workspace/
+
+# Test results
+TestResult*/ 
+*.trx
+*.coverage
+*.coveragexml
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# DotCover
+*.dotCover
+
+# Publish
+publish/
+*.Publish.xml
